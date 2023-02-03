@@ -1,0 +1,10 @@
+.terraform
+.terraform.lock.hcl
+948839409485402328.txt
+fdd97cfbdc14d891.txt
+file1.txt
+file3.txt
+fileobj.txt
+myfile1.txt
+terraform.tfstate
+terraform.tfstate.backup
